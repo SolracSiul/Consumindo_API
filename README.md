@@ -42,11 +42,6 @@ py manage.py runserver
     GET     http://127.0.0.1:8000/historico/ . Com esse comando você tem o retorno do histórico de solicitações;
 
 
-
-## Easter egg
-
-##### Caso você deseje acessar o banco de dados dessa aplicação é só abrir o arquivo .db da aplicação com o software [db.browser](https://sqlitebrowser.org/)
-
 ___
                                                  Desenvolvido por Luis Carlos. @crluis521@gmail.com
 
